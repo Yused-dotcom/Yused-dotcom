@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center"></h1> Hi, I'm Yusuf Edib 👋! </h1>
 
-<!--
-**Yused-dotcom/Yused-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student who is deeply interested in **software development, artificial intelligence, and building real products**.
 
-Here are some ideas to get you started:
+Right now, I’m focused on:
+- Learning **Python** step by step
+- Understanding **programming fundamentals** (logic, structure, problem-solving)
+- Exploring **GUI development with Tkinter**
+- Laying the foundation for my personal AI assistant project: **Yused AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Vision
+I don’t just want to write code —  
+I want to **build systems, products, and technologies** that solve real problems and give people freedom.
+
+My long-term goals include:
+- Becoming a strong **software engineer / entrepreneur**
+- Building my own **AI-based products**
+- Creating companies, not just projects
+
+## 🧠 Current Learning
+- Python (core syntax & logic)
+- Tkinter (GUI basics)
+- Git & GitHub (version control)
+- Software mindset & discipline
+
+## 📂 Projects
+> No public projects yet — currently learning, experimenting, and building foundations.  
+Projects will be added soon.
+
+## 🧩 Mindset
+- Discipline over motivation  
+- Long-term thinking  
+- Learning by building  
+- Consistency > perfection
+
+## 📫 Contact
+- GitHub: ed10yus@gmail.com
+
+---
+
+*This profile will evolve as I grow.*
