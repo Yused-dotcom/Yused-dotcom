@@ -14,7 +14,7 @@ I want to **build systems, products, and technologies** that solve real problems
 
 My long-term goals include:
 - Becoming a strong **software engineer / entrepreneur**
-- I am developing my own AI-powered assistant.
+- I am building an AI-powered personal assistant designed to grow with me.
 - Creating companies, not just projects
 
 ## 🧠 Current Learning
