@@ -34,7 +34,7 @@ Projects will be added soon.
 - Consistency > perfection
 
 ## 📫 Contact
-- GitHub: ed10yus@gmail.com
+- Gmail: ed10yus@gmail.com
 
 ---
 
